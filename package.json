@@ -1,0 +1,14 @@
+{
+  "name"         : "app-todo",
+  "version"      : "0.0.1",
+  "description"  : "Simple todo application.",
+  "main"         : "server.js",
+  "author"       : "Nick Z",
+  "dependencies" : {
+    "body-parser"    : "latest",
+    "express"        : "latest",
+    "method-override": "latest",
+    "mongoose"       : "latest",
+    "morgan"         : "latest"
+  }
+}
